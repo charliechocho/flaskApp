@@ -1,0 +1,757 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"ch",
+				"chromedriver_location"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"fis",
+				"first_num"
+			],
+			[
+				"sec",
+				"sec_num"
+			],
+			[
+				"fi",
+				"first_num"
+			],
+			[
+				"filen",
+				"filenames"
+			],
+			[
+				"coun",
+				"count_words"
+			],
+			[
+				"db",
+				"db_entry"
+			],
+			[
+				"name",
+				"name_input"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"fil",
+				"file_obj"
+			],
+			[
+				"p",
+				"prompt"
+			],
+			[
+				"mi",
+				"mil_tal"
+			],
+			[
+				"mil",
+				"mil_tal"
+			],
+			[
+				"car",
+				"car_item"
+			],
+			[
+				"de",
+				"describe_restaurant"
+			],
+			[
+				"open",
+				"open_restaurant"
+			],
+			[
+				"cu",
+				"cuisine_type"
+			],
+			[
+				"res",
+				"restaurant_name"
+			],
+			[
+				"my",
+				"my_record_two"
+			],
+			[
+				"m",
+				"my_record_two"
+			],
+			[
+				"rpm",
+				"rpm_45"
+			],
+			[
+				"topp",
+				"toppings"
+			],
+			[
+				"msg",
+				"msg_archive"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"messages",
+				"messages_li"
+			],
+			[
+				"du",
+				"duplicate"
+			],
+			[
+				"grp",
+				"grp_receive"
+			],
+			[
+				"grp_",
+				"grp_art"
+			],
+			[
+				"ablum",
+				"album_db_add"
+			],
+			[
+				"ar",
+				"artist_group"
+			],
+			[
+				"g",
+				"group_db_add"
+			],
+			[
+				"prin",
+				"print_catalogue"
+			],
+			[
+				"alb",
+				"albm"
+			],
+			[
+				"rec",
+				"record_db"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"text",
+				"text_mess"
+			],
+			[
+				"pet",
+				"pet_name"
+			],
+			[
+				"greet",
+				"greet_user"
+			],
+			[
+				"plac",
+				"place"
+			],
+			[
+				"place",
+				"place_visit"
+			],
+			[
+				"f",
+				"finished_sandwiches"
+			],
+			[
+				"sanwi",
+				"sandwich"
+			],
+			[
+				"san",
+				"sandwiches"
+			],
+			[
+				"sand",
+				"sandwiches"
+			],
+			[
+				"respon",
+				"responses"
+			],
+			[
+				"v",
+				"verified_users"
+			],
+			[
+				"num",
+				"num"
+			],
+			[
+				"int",
+				"infinte_loop"
+			],
+			[
+				"in",
+				"infinte_loop"
+			],
+			[
+				"c",
+				"current_number"
+			],
+			[
+				"cit",
+				"cities"
+			],
+			[
+				"a",
+				"age"
+			],
+			[
+				"messag",
+				"message_2"
+			],
+			[
+				"per",
+				"persons_2"
+			],
+			[
+				"l",
+				"last_name"
+			],
+			[
+				"persons",
+				"persons_1"
+			],
+			[
+				"person",
+				"persons_0"
+			],
+			[
+				"form",
+				"form"
+			],
+			[
+				"record",
+				"record_store"
+			],
+			[
+				"re",
+				"record"
+			],
+			[
+				"vin",
+				"vinyl_2"
+			],
+			[
+				"pin",
+				"point_value"
+			],
+			[
+				"fav",
+				"fav_num"
+			],
+			[
+				"for",
+				"for_loop"
+			],
+			[
+				"peron",
+				"persons"
+			],
+			[
+				"poin",
+				"point_value"
+			],
+			[
+				"fa",
+				"fav_albums"
+			],
+			[
+				"nu",
+				"number_ordinals"
+			],
+			[
+				"frin",
+				"friends_pizza"
+			],
+			[
+				"mid",
+				"middle_end"
+			],
+			[
+				"the",
+				"the_odd_one"
+			],
+			[
+				"pl",
+				"players"
+			],
+			[
+				"mag",
+				"magician"
+			],
+			[
+				"magic",
+				"magicians"
+			],
+			[
+				"sol",
+				"sold_record"
+			],
+			[
+				"col",
+				"collection_size"
+			],
+			[
+				"co",
+				"collection_size"
+			],
+			[
+				"M",
+				"my_records"
+			],
+			[
+				"guest",
+				"guests"
+			],
+			[
+				"mo",
+				"motorcycles_orig"
+			],
+			[
+				"n",
+				"names"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 169,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "app.py"
+			}
+		},
+		{
+			"file": "Dockerfile",
+			"settings":
+			{
+				"buffer_size": 243,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "FROM python:3.9.1"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Automatic"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Check"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Document"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clippy"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Script"
+				]
+			],
+			[
+				"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/towertwenty/selenium/webdriver.py",
+		"/Users/towertwenty/py-crash-course/datetime.py",
+		"/Users/towertwenty/py-crash-course/name_function.py",
+		"/Users/towertwenty/py-crash-course/name_again.py",
+		"/Users/towertwenty/py-crash-course/name_function2.py",
+		"/Users/towertwenty/py-crash-course/unit_test.py",
+		"/Users/towertwenty/py-crash-course/remember_me.py",
+		"/Users/towertwenty/py-crash-course/greet_user.py",
+		"/Users/towertwenty/py-crash-course/numer_writer.py",
+		"/Users/towertwenty/py-crash-course/number_reader.py",
+		"/Users/towertwenty/py-crash-course/alice.py",
+		"/Users/towertwenty/py-crash-course/guest_book.py",
+		"/Users/towertwenty/py-crash-course/exc_10_10.py",
+		"/Users/towertwenty/py-crash-course/exc10_6.py",
+		"/Users/towertwenty/py-crash-course/exc10_8.py",
+		"/Users/towertwenty/py-crash-course/txt_files/A_Daughter_of_Witch.txt",
+		"/Users/towertwenty/py-crash-course/div_calc.py",
+		"/Users/towertwenty/py-crash-course/file_reader.py",
+		"/Users/towertwenty/py-crash-course/file_reader_2.py",
+		"/Users/towertwenty/py-crash-course/write_message.py",
+		"/Users/towertwenty/py-crash-course/txt_files/python_learning.txt",
+		"/Users/towertwenty/py-crash-course/pi_digits.txt",
+		"/Users/towertwenty/py-crash-course/vinyl.py",
+		"/Users/towertwenty/py-crash-course/record_db.py",
+		"/Users/towertwenty/py-crash-course/car.py",
+		"/Users/towertwenty/py-crash-course/restaurant_class.py",
+		"/Users/towertwenty/Library/Application Support/Sublime Text 3/Packages/Rust Enhanced/RustEnhanced.sublime-settings",
+		"/Users/towertwenty/Library/Application Support/Sublime Text 3/Packages/User/RustEnhanced.sublime-settings",
+		"/Users/towertwenty/rust-course/main.rs",
+		"/Users/towertwenty/py-crash-course/messenger.py",
+		"/Users/towertwenty/py-crash-course/pizza.py",
+		"/Users/towertwenty/py-crash-course/pizza-2.py",
+		"/Users/towertwenty/py-crash-course/dict_list_tuple.py",
+		"/Users/towertwenty/py-crash-course/parrot.py",
+		"/Users/towertwenty/py-crash-course/rivers_dict.py",
+		"/Users/towertwenty/py-crash-course/greeter.py",
+		"/Users/towertwenty/py-crash-course/pets.py",
+		"/Users/towertwenty/py-crash-course/ex83_t_shirt.py",
+		"/Users/towertwenty/py-crash-course/trans_list.py",
+		"/Users/towertwenty/py-crash-course/mountains.py",
+		"/Users/towertwenty/py-crash-course/deli.py",
+		"/Users/towertwenty/py-crash-course/x710_GeoVisit.py",
+		"/Users/towertwenty/py-crash-course/x74_pizza_loop.py",
+		"/Users/towertwenty/py-crash-course/x75_cinema_fee.py",
+		"/Users/towertwenty/py-crash-course/inifinte_loop.py",
+		"/Users/towertwenty/py-crash-course/cities.py",
+		"/Users/towertwenty/py-crash-course/flags.py",
+		"/Users/towertwenty/py-crash-course/counting.py",
+		"/Users/towertwenty/py-crash-course/continue.py",
+		"/Users/towertwenty/py-crash-course/odds_or_even.py",
+		"/Users/towertwenty/py-crash-course/x7_RentalCar.py",
+		"/Users/towertwenty/py-crash-course/x7_table_res.py",
+		"/Users/towertwenty/py-crash-course/x7_multiples_of_10.py",
+		"/Users/towertwenty/py-crash-course/users.py",
+		"/Users/towertwenty/py-crash-course/persons.py",
+		"/Users/towertwenty/py-crash-course/record_store.py",
+		"/Users/towertwenty/py-crash-course/multi_aliens.py",
+		"/Users/towertwenty/py-crash-course/record_store2.py",
+		"/Users/towertwenty/py-crash-course/fav_albums.py",
+		"/Users/towertwenty/py-crash-course/aliens.py",
+		"/Users/towertwenty/py-crash-course/fav_num.py",
+		"/Users/towertwenty/py-crash-course/glossary.py",
+		"/Users/towertwenty/py-crash-course/cars2.py",
+		"/Users/towertwenty/py-crash-course/user_check.py",
+		"/Users/towertwenty/py-crash-course/number_ordinals.py",
+		"/Users/towertwenty/py-crash-course/pizzas.py",
+		"/Users/towertwenty/py-crash-course/cars4.py",
+		"/Users/towertwenty/py-crash-course/banned_users.py",
+		"/Users/towertwenty/py-crash-course/voting.py",
+		"/Users/towertwenty/py-crash-course/amusementpark.py",
+		"/Users/towertwenty/py-crash-course/numbers.py",
+		"/Users/towertwenty/py-crash-course/my_pizzas.py",
+		"/Users/towertwenty/py-crash-course/dimensions.py",
+		"/Users/towertwenty/py-crash-course/squares.py",
+		"/Users/towertwenty/py-crash-course/list_stat.py",
+		"/Users/towertwenty/py-crash-course/ex_4_x.py",
+		"/Users/towertwenty/py-crash-course/players.py",
+		"/Users/towertwenty/py-crash-course/ex4_10.py",
+		"/Users/towertwenty/py-crash-course/list_compr.py",
+		"/Users/towertwenty/py-crash-course/ex_3_8.py",
+		"/Users/towertwenty/py-crash-course/name_cases.py",
+		"/Users/towertwenty/py-crash-course/more_lists.py",
+		"/Users/towertwenty/py-crash-course/magicians.py",
+		"/Users/towertwenty/py-crash-course/dogs.py",
+		"/Users/towertwenty/py-crash-course/cars3.py",
+		"/Users/towertwenty/py-crash-course/ex_3_10.py",
+		"/Users/towertwenty/py-crash-course/motorcycles.py",
+		"/Users/towertwenty/py-crash-course/ex_3_4.py",
+		"/Users/towertwenty/py-crash-course/comment.py",
+		"/Users/towertwenty/py-crash-course/bicycles.py",
+		"/Users/towertwenty/py-crash-course/names_list.py",
+		"/Users/towertwenty/py-crash-course/vehicles.py",
+		"/Users/towertwenty/py-crash-course/number_eight.py",
+		"/Users/towertwenty/py-crash-course/apostrophe.py",
+		"/Users/towertwenty/py-crash-course/full_name.py",
+		"/Users/towertwenty/py-crash-course/name.py",
+		"/Users/towertwenty/py-crash-course/hello_world.py",
+		"/Users/towertwenty/Google Drive/python_work/name.py",
+		"/Users/towertwenty/Google Drive/python_work/apostrophe.py",
+		"/Users/towertwenty/Documents/PythonScripts/RealPythonCourse/book1-exercises/readme.md",
+		"/Users/towertwenty/Google Drive/python_work/guest_list.py",
+		"/Users/towertwenty/Google Drive/python_work/listRemove.py",
+		"/Users/towertwenty/Google Drive/python_work/lists2.py",
+		"/Users/towertwenty/Google Drive/python_work/lists.py",
+		"/Users/towertwenty/Google Drive/python_work/2-8exrcs.py",
+		"/Users/towertwenty/Google Drive/python_work/2-6exrcs.py",
+		"/Users/towertwenty/Google Drive/python_work/2-9exrcs.py",
+		"/Users/towertwenty/Google Drive/python_work/2-3_exrcs.py",
+		"/Users/towertwenty/Google Drive/python_work/2-5exrcs.py",
+		"/Users/towertwenty/Google Drive/python_work/2-4exrcs.py",
+		"/Users/towertwenty/Google Drive/python_work/full_name.py",
+		"/Users/towertwenty/Google Drive/python_work/hello_world.py",
+		"/Users/towertwenty/Google Drive/python_work/simple_message.py",
+		"/Users/towertwenty/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"auto_name": "app.py",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Dockerfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"auto_name": "FROM python:3.9.1",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 198.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "todo-flask-proj.sublime-project",
+	"replace":
+	{
+		"height": 73.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
