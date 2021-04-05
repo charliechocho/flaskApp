@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: flask
-        image: charliechocho/flask-app
+        image: harbor.tanzu.be/msoderberg/flask-app:latest
         ports:
           - containerPort: 80
 ---

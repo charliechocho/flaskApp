@@ -343,37 +343,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "flask.yaml",
-			"settings":
-			{
-				"buffer_size": 528,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "flask.yaml"
-			}
-		},
-		{
-			"contents": "",
-			"file": "/Users/towertwenty/todo-flask/app.py",
-			"file_size": -1,
-			"file_write_time": -1,
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "kind-cluster.yaml",
-			"settings":
-			{
-				"buffer_size": 511,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "cat <<EOF | kind create cluster --config=-"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -622,99 +591,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "flask.yaml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 528,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "flask.yaml",
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/towertwenty/todo-flask/app.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "kind-cluster.yaml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 511,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								508,
-								508
-							]
-						],
-						"settings":
-						{
-							"auto_name": "cat <<EOF | kind create cluster --config=-",
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -758,7 +636,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "Packages/User/Python3.sublime-build",
-	"project": "todo-flask-proj.sublime-project",
+	"project": "app.sublime-project",
 	"replace":
 	{
 		"height": 73.0
