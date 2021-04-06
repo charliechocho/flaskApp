@@ -4,6 +4,7 @@ import os.path
 
 tanzu_quotes = ['Tanzu Rules', 'Tanzu World', 'Tanzu Rocks', 
 'Tanzu is Swahili for branches', 'VMware Tanzu']
+tanzu_colors = ['red', 'blue', 'green', 'yellow', 'brown']
 
 txt_col = ['yellow', 'brown', 'blue', 'black', 'red']
 
