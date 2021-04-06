@@ -9,16 +9,21 @@
         margin-top: 50px;
     }
     h1 {
-        color: blue;
+        color: {{titlecolor}};
         font-size: 40pt;
     }
     p {
         color: green;
         font-size: 24pt;
     }
+    h2 {
+        color: brown;
+        font-size: 18pt
+    }
 </style>
 <div>
     <h1>Welcome To Tanzu World!</h1><br>
     <p>Wisdom of today is:</p><br>
-    <p> -{{ wordofday }}!!!</p>
+    <p> -{{ wordofday }}!!!</p><br>
+    <h2> Click <a href="/visitors">here</a> to check out visitors count </h2>
 </div>
