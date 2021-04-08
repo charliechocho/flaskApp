@@ -4,7 +4,6 @@ import os.path
 
 tanzu_quotes = ['Tanzu Rules', 'Tanzu World', 'Tanzu Rocks', 
 'Tanzu is Swahili for branches', 'VMware Tanzu']
-tanzu_colors = ['red', 'blue', 'green', 'yellow', 'brown']
 
 txt_col = ['yellow', 'brown', 'blue', 'black', 'red']
 
@@ -37,5 +36,3 @@ def visitors():
 
 if __name__ == "__main__":
     app.run(debug = True, host="0.0.0.0", port=80)
-
-
