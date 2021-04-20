@@ -2,10 +2,10 @@ from flask import Flask, render_template
 import random
 import os.path
 
-tanzu_quotes = ['Tanzu Rules', 'Tanzu World', 'Tanzu Rocks', 
-'Tanzu is Swahili for branches', 'VMware Tanzu']
+tanzu_quotes = ['Tanzu Build Service', 'Tanzu World', 'Tanzu App Cat', 
+'Tanzu is Swahili for branches', 'Tanzu Labs', 'Tanzu Mission Control']
 
-txt_col = ['yellow', 'brown', 'blue', 'black', 'red']
+txt_col = ['yellow', 'brown', 'blue', 'black', 'red', 'orange']
 
 if os.path.exists('count.txt'):
     pass
@@ -21,7 +21,8 @@ app = Flask(__name__)
 def index():
     show_text = random.choice(tanzu_quotes)
     head_color = random.choice(txt_col)
-    return render_template("index2.html", wordofday = show_text, titlecolor = head_color) 
+    return render_template("index2.html", wordofday = show_text,
+    titlecolor = head_color) 
 
 @app.route("/visitors")
 
